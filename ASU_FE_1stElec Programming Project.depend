@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524596531 source:d:\projects\c++\asu_fe_1stelec programming project\main.cpp
+	<iostream>
+	<array>
+	<string>
+
