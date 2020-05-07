@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(110): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(113): warning C4018: '>': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(138): warning C4018: '>=': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(221): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(404): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(434): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(447): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(477): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(491): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(499): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\visual studio projects\asu fe 1stelec project\asu fe 1stelec project\main.cpp(530): warning C4018: '<': signed/unsigned mismatch
+  ASU FE 1stElec Project.vcxproj -> D:\Projects\C++\Visual Studio Projects\ASU FE 1stElec Project\Debug\ASU FE 1stElec Project.exe
